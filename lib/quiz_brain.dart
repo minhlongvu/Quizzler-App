@@ -4,7 +4,7 @@ class QuizBrain {
   int _currentQuestionNumber = 0;
 
   List<Question> _questionBank = [
-    Question('Sperm whales can hold their breath for up to an hour', true),
+    Question('Sperm whales can hold their breath for 90 minutes', true),
     Question('Some cats are actually allergic to humans', true),
     Question('You can lead a cow down stairs but not up stairs.', false),
     Question('Approximately one quarter of human bones are in the feet.', true),
